@@ -9,3 +9,5 @@ Rule:
     -very few $(selections)
 -no memory leaks 
     -all eventsc can be unbound
+
+https://viblo.asia/p/design-pattern-trong-javascript-Az45bYYolxY
